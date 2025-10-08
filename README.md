@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Caio Santana
 
-**`Desenvolvedora Front-End`** **`Analista de Dados`**
+**`Desenvolvedor Front-End`** **`Analista de Dados`**
 
 Sou Caio Santana Nascimento, Analista Júnior com experiência em Dados, integrações via APIs, automação de processos e desenvolvimento web.
 Apaixonado por tecnologia e movido pelo desejo de aprender, evoluir e conquistar novos objetivos.
