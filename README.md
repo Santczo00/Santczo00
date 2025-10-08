@@ -13,7 +13,7 @@ Apaixonado por tecnologia e movido pelo desejo de aprender, evoluir e conquistar
       alt="LinkedIn profile" 
       title="Conecte-se comigo no LinkedIn" 
       src="https://img.shields.io/badge/LinkedIn-Conecte--se-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" 
-      style="height: 34px; border-radius: 8px;" 
+      style="height: 24px; border-radius: 8px;" 
     />
   </a>
 </p>
