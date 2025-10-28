@@ -22,7 +22,16 @@ Apaixonado por tecnologia e movido pelo desejo de aprender, evoluir e conquistar
 
 ### 🛠️ Tecnologias e Ferramentas
 
+### 🛠️ Tecnologias e Ferramentas
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,postman" height="45px" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" title="n8n" width="45px" />
+  <img src="https://skillicons.dev/icons?i=html" height="45px" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="45px" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="45px" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="45px" title="Python" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45px" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45px" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45px" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="45px" title="n8n" />
 </p>
+
