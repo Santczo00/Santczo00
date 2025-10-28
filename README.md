@@ -23,13 +23,6 @@ Apaixonado por tecnologia e movido pelo desejo de aprender, evoluir e conquistar
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="HTML" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" title="CSS" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" title="Figma" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" title="Visual Studio" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="VS Code" width="40px" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" title="Postman" width="40px" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" width="40px" style="background-color: #ffffff; border-radius: 4px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,postman" height="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" title="n8n" width="45px" />
 </p>
