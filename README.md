@@ -19,9 +19,6 @@ Apaixonado por tecnologia e movido pelo desejo de aprender, evoluir e conquistar
 </p>
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
